@@ -31,3 +31,5 @@ In this assignment, we implemented the client and server for a simple TCP echo s
     ```
     ./client IPAdr Port
     ```
+
+**Note:** - The code is written in C and is compiled and tested in a Linux environment.

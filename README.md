@@ -2,7 +2,7 @@
 Implementation of the client and server for a simple TCP echo service
   
 
-ECEN602 Programming Assignment 01
+ECEN602 Programming Assignment 1
 1. Flavia Ratto
 2. Eric Lloyd Robles
 
